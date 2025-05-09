@@ -62,4 +62,4 @@ Die Website besteht aus mehreren verbundenen HTML-Seiten und bietet Nutzern eine
 ---
 
 Bei Fragen gerne melden bei:  
-📧 **mkoest01@mariengymnasium.netcom** 
+📧 **mkoest01@mariengymnasium.net** 
