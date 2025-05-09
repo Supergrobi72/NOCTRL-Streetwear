@@ -50,20 +50,6 @@ Die Website besteht aus mehreren verbundenen HTML-Seiten und bietet Nutzern eine
 
 ---
 
-## 🛠 Projektstruktur
-
-├── index.html
-├── produkte.html
-├── jogger-detail.html
-├── warenkorb.html
-├── versand.html
-├── agb.html
-├── datenschutz.html
-├── impressum.html
-├── style.css
-├── bilder/
-│ ├── Weiß.jogger.png
-│ ├── Schwarz.hoodie.png
 
 
 ---
